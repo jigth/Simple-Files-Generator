@@ -4,6 +4,8 @@ Generate arbirary amount of files within arbitrary directories using a simple Py
 
 I made this repo to save the code used to generate multiple files using a Python3 script and make it available to readers of a post of mine named "Rsync, a faster backup option", available at [my personal website's blog](https://jigth-v2.netlify.app/blog/backup-copy-files-rsync)
 
+**NOTE:** The python script was generated using ChatGPT V4 (paid), adjusted using some Prompt Engineering techniques and validated by myself in a Linux environment created using AWS EC2 service.
+
 ## Usage
 
 First create a virtualenv (make sure you have the necessary dependencies to do so, more info available [here](https://docs.python.org/3/library/venv.html))
