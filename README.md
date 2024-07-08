@@ -2,6 +2,8 @@
 
 Generate arbirary amount of files within arbitrary directories using a simple Python Script.
 
+This script generates the total number of files you specified distributed across the specified directories (it creates them too). The number of files per directory is random but all the files summed up should add up to the total number of files specified in the script call.
+
 I made this repo to save the code used to generate multiple files using a Python3 script and make it available to readers of a post of mine named "Rsync, a faster backup option", available at [my personal website's blog](https://jigth-v2.netlify.app/blog/backup-copy-files-rsync)
 
 **NOTE:** The python script was generated using ChatGPT V4 (paid), adjusted using some Prompt Engineering techniques and validated by myself in a Linux environment created using AWS EC2 service.
